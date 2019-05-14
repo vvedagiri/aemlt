@@ -1,0 +1,19 @@
+{  
+   "properties":{  
+      "description":"ABC Corp Results",
+      "title":"ABC Corp Results",
+      "cq:model":"/conf/we-retail/settings/dam/cfm/models/news",
+      "elements":{  
+         "author":{  
+            "value":[  
+               "Arnav Goswami"
+            ]
+         },
+         "news":{  
+            "value":[  
+               "ABC Corp financial results were announced today."
+            ]
+         }
+      }
+   }
+}
